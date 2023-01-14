@@ -106,11 +106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+      "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
       "projectName": "EventBus.Base",
-      "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+      "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
       "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
+      "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tNPsuAUW/ZYfoTqCmQ7nmAMhLSnPH3lvU2mNy5vFBEH3B02ef0qR7eIlCoap5vBUJIAvoj42m8CEfXoIs99gMA==",
+  "dgSpecHash": "D/nKl7dEHe2FDJJ8l9OgXI7H1CfcxlywzOHHIRSj/7A+Id5A+qdh2OyzIC6Kibu16V6Yjni6dLEg7IdSBG8XIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\BuildingBlocks\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\BuildingBlocks\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",

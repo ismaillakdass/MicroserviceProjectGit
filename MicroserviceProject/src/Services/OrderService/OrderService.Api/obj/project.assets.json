@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+      "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
       "projectName": "OrderService.Api",
-      "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+      "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
       "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\obj\\",
+      "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",

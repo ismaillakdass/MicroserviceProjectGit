@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj": {}
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj": {
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
         "projectName": "CatologService.Api",
-        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
+        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
         "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\obj\\",
+        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",

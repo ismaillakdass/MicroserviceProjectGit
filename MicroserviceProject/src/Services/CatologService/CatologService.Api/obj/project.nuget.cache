@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LwsFkcBI51wBBJ2k0diZHyfwHDFzMZhyCIJUfk9SAdIW5guSDojuWEiApVn5Ei36yfIvw5rhK/qbjuly8/lVUQ==",
+  "dgSpecHash": "iQd97NInnVNk41+O4LFdVMFs5nnnwu2TJhVci4h2P2auWqV7ttc4ZMiYk5WnQ7GrWKx8Tt3Al6+SXoxwMy2IXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\CatologService\\CatologService.Api\\CatologService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

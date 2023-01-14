@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B18YdZmaACAezxxSDCIm8M1kHS/Awbqsm41vsTzmOsFdkp2SXzjbg7M85tYqtpX7P9hB7ADLhSrKKGTkaaxEcQ==",
+  "dgSpecHash": "8UnjvcfJmtmPmm5pNayyOEOQso+xUs71czLHjkGGVJlzFQ417DhBo9clU/V+sS1MI6dS8iaP95YP7InDgMyeXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

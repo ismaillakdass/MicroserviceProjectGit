@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj": {}
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj": {
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
         "projectName": "BasketService.Api",
-        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
         "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\obj\\",
+        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",

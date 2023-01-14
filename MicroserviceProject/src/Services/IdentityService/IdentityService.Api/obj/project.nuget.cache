@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gpFbqQnCdVi7fmQoK1JK7iRFAvVhB1QtpQl2c+P1e9HcGWdt/vqXydIPcoTH4Z2RU6Bmb5V3riOz2vQaT4sNqw==",
+  "dgSpecHash": "B+RqsnjKHEkloEToU3PM44KTA/jU+y5JJmHUo8Nd1prRi2ttZc2pY8L7Jg3et0+h6Af7wzwfa2pXyktckPHfGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ismail\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

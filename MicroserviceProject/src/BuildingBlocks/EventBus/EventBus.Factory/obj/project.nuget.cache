@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g2AZKKKruOW4A1hZVvdCSysRv7FBfRtgF2pos+73qyN4DyVrO5HOG5QZHu2zSs7inmg51Rz+4ksdKPlcWg1a5A==",
+  "dgSpecHash": "nGBwnq7UVbi50gsrh1bCHg1Rwxl0ZUqIocwMOn42Mfu5KPS4SWzX1CHA4e7bSu1KtDMIoXJa80x4YgYNWKDOtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

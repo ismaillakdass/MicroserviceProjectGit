@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj": {}
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj": {
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
+        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
         "projectName": "OrderService.Infrastracture",
-        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
+        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
         "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\obj\\",
+        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",

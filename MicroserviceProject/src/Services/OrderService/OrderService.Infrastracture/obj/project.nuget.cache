@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nxyY0Dd4s2lvNRHrT+KVeOqltZQCU4EPOO1XuBbNkp5CWto8Yx/Y8/VkeLdDr0M+ShrvtoK6EpN0dxezL+lPXw==",
+  "dgSpecHash": "e77tDF/kGC3Q6uHuVepqEg6dyX/DO1D59wVdsUp1q8IEqEeYNVl2v+tLlbcmF8tL/4LRqXVmRFK9YlJD7lc+fA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastracture\\OrderService.Infrastracture.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

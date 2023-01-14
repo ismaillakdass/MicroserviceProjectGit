@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KNdybfWaRoPKD/auINWWLnZ0NxPdDeBneLxXu0frxfP3ppD2XH9sBhRNh0/foQdsdTIYjQw2FrhyAGz3tF3bUQ==",
+  "dgSpecHash": "cSCxXrWWEY+yBNKAQ4JhVhI+dTdg52NBAvp8uX2UZOCax8OYz9nLAdy3fqZTy4TGts44sXp4blNkfm6h+hJiWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+  "projectFilePath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

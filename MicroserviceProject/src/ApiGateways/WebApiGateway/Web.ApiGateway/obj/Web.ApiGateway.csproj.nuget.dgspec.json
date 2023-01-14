@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
+    "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectUniqueName": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "projectName": "Web.ApiGateway",
-        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\ismail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
+        "outputPath": "C:\\Users\\ismail\\Desktop\\MicroserviceExample\\MicroserviceProjectGit\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ismail\\AppData\\Roaming\\NuGet\\NuGet.Config",
